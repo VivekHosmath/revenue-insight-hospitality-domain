@@ -5,7 +5,7 @@ Analyzing hotel performance to support strategic decisions and improve revenue g
 ---
 
 ## 📌 Table of Contents
-- <a href="#overview">Overview</a>
+- <a href="#Overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
