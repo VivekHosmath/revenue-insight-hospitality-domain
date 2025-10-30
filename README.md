@@ -112,8 +112,7 @@ Here’s the visual dashboard created in Power BI:
 **Vivek Hosmath**  
 *Data Analyst*  
 
-📧 **Email:** your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com)  
-🔗 [Portfolio](https://yourportfolio.link)
+📧 **Email:** vivekhosmath2208@gmail.com    
+🔗 [Portfolio] https://github.com/VivekHosmath/revenue-insight-hospitality-domain
 
 ---
