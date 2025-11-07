@@ -2,37 +2,6 @@
 
 Analyzing hotel performance to support strategic decisions and improve revenue growth using **Excel** and **Power BI**.
 
----
-
-## 📌 Table of Contents
-
-- [🧾 Overview](#overview)
-- [💼 Business Problem](#business-problem)
-- [📁 Dataset](#dataset)
-- [⚙️ Tools & Technologies](#tools-technologies)  
-- [🗂️ Project Structure](#project-structure)
-- [🧹 Data Cleaning & Preparation](#data-cleaning-preparation) 
-- [🔍 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [💡 Research Questions & Key Findings](#research-questions-key-findings) 
-- [📊 Dashboard](#dashboard)
-- [⚡ How to Run This Project](#how-to-run-this-project)
-- [✅ Final Recommendations](#final-recommendations)
-- [👤 Author & Contact](#author-contact)  
-<!-- - [🧾 Overview](#overview)
-- [💼 Business Problem](#business-problem)
-- [📁 Dataset](#dataset)
-- [⚙️ Tools & Technologies](#tools--technologies)
-- [🗂️ Project Structure](#project-structure)
-- [🧹 Data Cleaning & Preparation](#data-cleaning--preparation)
-- [🔍 Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [💡 Research Questions & Key Findings](#research-questions--key-findings)
-- [📊 Dashboard](#dashboard)
-- [⚡ How to Run This Project](#how-to-run-this-project)
-- [✅ Final Recommendations](#final-recommendations)
-- [👤 Author & Contact](#author--contact) -->
-
-
----
 
 ## 🧾 Overview  
 This project focuses on analyzing the revenue performance of **AtliQ Grands**, a five-star hotel chain operating across India. The goal was to identify business insights and performance trends using Excel and Power BI.  
